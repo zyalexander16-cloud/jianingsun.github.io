@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+I'm a third year undergraduate student from [School of ICSE](https://icse.uestc.edu.cn/), [UESTC](https://uestc.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
+
+作者：奇迹的闪光迪迦
+链接：https://zhuanlan.zhihu.com/p/711554540
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
